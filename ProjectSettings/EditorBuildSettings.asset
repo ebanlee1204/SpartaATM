@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DepositScene.unity
+    guid: bba9a50d6578b814e8641c295278bc77
+  - enabled: 1
+    path: Assets/Scenes/WithdrawScene.unity
+    guid: 33c2b3602e4ee7c45abc2eb4e4b2e916
+  m_configObjects: {}
